@@ -8,6 +8,7 @@ function App() {
       <div className="App">
         <h1>Csak</h1>
         <h2>úgy</h2>
+        <h2>Drukk! Drukk! Drukk!</h2>
         <h3><img src={hearth} alt="Cute red hearth" className="App-logo" />
         </h3>
       </div>
