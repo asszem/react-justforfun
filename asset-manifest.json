@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-justforfun/static/css/main.2661093e.chunk.css",
-    "main.js": "/react-justforfun/static/js/main.ddf4319d.chunk.js",
-    "main.js.map": "/react-justforfun/static/js/main.ddf4319d.chunk.js.map",
+    "main.css": "/react-justforfun/static/css/main.aa28c911.chunk.css",
+    "main.js": "/react-justforfun/static/js/main.7c9e5465.chunk.js",
+    "main.js.map": "/react-justforfun/static/js/main.7c9e5465.chunk.js.map",
     "runtime-main.js": "/react-justforfun/static/js/runtime-main.0e4318fd.js",
     "runtime-main.js.map": "/react-justforfun/static/js/runtime-main.0e4318fd.js.map",
     "static/js/2.fe61db61.chunk.js": "/react-justforfun/static/js/2.fe61db61.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a3e1d9d7.chunk.js": "/react-justforfun/static/js/3.a3e1d9d7.chunk.js",
     "static/js/3.a3e1d9d7.chunk.js.map": "/react-justforfun/static/js/3.a3e1d9d7.chunk.js.map",
     "index.html": "/react-justforfun/index.html",
-    "static/css/main.2661093e.chunk.css.map": "/react-justforfun/static/css/main.2661093e.chunk.css.map",
+    "static/css/main.aa28c911.chunk.css.map": "/react-justforfun/static/css/main.aa28c911.chunk.css.map",
     "static/js/2.fe61db61.chunk.js.LICENSE.txt": "/react-justforfun/static/js/2.fe61db61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0e4318fd.js",
     "static/js/2.fe61db61.chunk.js",
-    "static/css/main.2661093e.chunk.css",
-    "static/js/main.ddf4319d.chunk.js"
+    "static/css/main.aa28c911.chunk.css",
+    "static/js/main.7c9e5465.chunk.js"
   ]
 }
