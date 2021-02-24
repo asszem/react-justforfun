@@ -1,24 +1,17 @@
-import logo from './logo.svg';
+import hearth from './hearth.png';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HashRouter>
+      <div className="App">
+        <h1>Csak</h1>
+        <h2>úgy</h2>
+        <h3><img src={hearth} alt="Cute red hearth" className="App-logo" />
+        </h3>
+      </div>
+    </HashRouter>
   );
 }
 
