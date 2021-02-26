@@ -5,7 +5,15 @@
 .App-logo {
   height: 25vmin;
   pointer-events: none;
-  margin-top:60px;
+  margin: 50px auto;
+  padding: 125px auto;
+}
+
+.hearts {
+  width: 100%;
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 1px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -15,16 +23,16 @@
 }
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(360deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(0deg);
   }
 }
 
 h1 {
   font-size: 150px;
-  margin:10px auto;
+  margin: 10px auto;
 }
 
 h2 {
