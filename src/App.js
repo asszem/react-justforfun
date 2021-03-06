@@ -6,12 +6,9 @@ function App() {
   return (
     <HashRouter>
       <div className="App">
-        <h1>Csak</h1>
-        <h2>úgy ma is :D</h2>
-        <h2>Drukk! Drukk! Drukk!</h2>
+        <h1>No Dráma</h1>
+        <h1>minden rendben lesz</h1>
         <div className="hearts">
-        <img src={hearth} alt="Cute red hearth" className="App-logo" />
-        <img src={hearth} alt="Cute red hearth" className="App-logo" />
         <img src={hearth} alt="Cute red hearth" className="App-logo" />
         </div>
       </div>
